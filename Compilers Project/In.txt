@@ -1,0 +1,5 @@
+--This is main function 
+Ity#decrease(){
+Ity#3num=5.
+Whatever (counter<num)
+reg3=reg3-1.} }

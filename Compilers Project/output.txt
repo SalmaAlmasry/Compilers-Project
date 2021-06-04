@@ -1,0 +1,44 @@
+Line#1
+    --------------------
+ 
+-- : Comment
+Line#2
+    --------------------
+ 
+Ity : Integer 
+# : Token Delimiter 
+decrease : Identifier 
+(   :  Braces   
+)   :  Braces   
+{   :  Braces  
+Line#3
+    --------------------
+ 
+Ity : Integer 
+# : Token Delimiter 
+ 
+= : Assignment operator 
+5 : Constant 
+. : End line
+Line#4
+    --------------------
+ 
+Whatever : Loop 
+ 
+(   :  Braces   
+counter : Identifier 
+<: relational operators 
+num : Identifier 
+)   :  Braces  
+Line#5
+    --------------------
+ 
+reg3 : Identifier 
+= : Assignment operator 
+reg3 : Identifier 
+- : Arithmetic Operation 
+1 : Constant 
+. : End line 
+}   :  Braces   
+ 
+}   :  Braces  
